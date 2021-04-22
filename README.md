@@ -1,11 +1,12 @@
 # Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting
-This is the official implementation code of paper submitted to ACM MM 2021.
+This work is done when working as the research asistant in Big Data Security and Information Itelligence Lab, supervised by Prof.Pan Zhou. And we corperate with the researchers in Duke University ([Dr.Wang](https://wangbinghui.net) and [Dr.Li](https://sites.duke.edu/angli))
+*This is the official implementation code of paper submitted to ACM MM 2021.
 
-We are the first work to evaluate the adversarial robustness of crowd counting both theoretically and empirically.
+*We are the first work to evaluate the adversarial robustness of crowd counting both theoretically and empirically.
 
-Thanks for the insightful discussions with Weizhe Liu (the author of Coxtext-Aware-Crowd-Counting)
+*Thanks for the insightful discussions with Weizhe Liu (the author of Coxtext-Aware-Crowd-Counting)
 
-Thanks for the repo of Optical Flow Attack (ICCV2019) [repo](https://github.com/anuragranj/flowattack), this repo is inspired from it. 
+*Thanks for the repo of Optical Flow Attack (ICCV2019) [repo](https://github.com/anuragranj/flowattack), this repo is inspired from it. 
 
 ## Requirement
 1. Install pytorch 1.4.0+

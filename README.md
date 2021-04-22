@@ -9,7 +9,9 @@ We are the first work to evaluate the adversarial robustness of crowd counting b
 
 
 ## Data Setup
-1. Download ShanghaiTech Dataset from
+follow the MCNN or CSRNet repo's steps to build the dataset [MCNN](https://github.com/svishwa/crowdcount-mcnn) [CSRNet](https://github.com/CommissarMa/CSRNet-pytorch)
+
+Download ShanghaiTech Dataset from
 [Dropbox](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0) or [Baidu Disk](https://pan.baidu.com/s/101mNo_Vz21IwDYnYTnLQpw) (code: a2v8)   
 
 ## Attacked Models

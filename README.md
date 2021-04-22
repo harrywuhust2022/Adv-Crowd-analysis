@@ -30,7 +30,11 @@ Thanks for these researchers share the code!
 Please run the python file csr_attack.py
 
 ## How to Retrain the Crowd Counting Models?
-Please run the python file csr_certify_train.py
+python3 MCNN_adv_train.py (adversarial training with the generated patch (pristine version))
+python3 MCNN_certify_train.py (certificate training MCNN via randomized ablation)
 
 ## Want to Gain the Certificate Retrained Models?
-[Baidu Disk](https://pan.baidu.com/s/1u3-HrWxa82RRcYUsznkjQw)(code:hary)
+dropbox: https://www.dropbox.com/sh/s9v8ojj7pedz4vr/AAChLahRjJ_-ko6kefsSD47ba?dl=0 
+
+[dropbox](https://www.dropbox.com/sh/s9v8ojj7pedz4vr/AAChLahRjJ_-ko6kefsSD47ba?dl=0)
+

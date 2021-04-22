@@ -1,5 +1,5 @@
 # Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting
-This work is done when working as the research asistant in Big Data Security and Information Itelligence Lab, supervised by Prof.Pan Zhou. And we corperate with the researchers in Duke University ([Dr.Wang](https://wangbinghui.net) and [Dr.Li](https://sites.duke.edu/angli))
+This work is done when working as the research asistant in Big Data Security and Information Itelligence Lab, supervised by Prof.[Pan Zhou](https://scholar.google.com/citations?user=cTpFPJgAAAAJ&hl=en). And we corperate with the researchers in Duke University ([Dr.Wang](https://wangbinghui.net) and [Dr.Li](https://sites.duke.edu/angli))
 
 * This is the official implementation code of paper submitted to ACM MM 2021.
 

@@ -1,4 +1,4 @@
-# Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting
+# Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting (APAM attack & Certified Defense via Randomized Ablation)
 This work is done when working as the research asistant in Big Data Security and Information Itelligence Lab, supervised by Prof.[Pan Zhou](https://scholar.google.com/citations?user=cTpFPJgAAAAJ&hl=en). And we corperate with the researchers in Duke University ([Dr.Wang](https://wangbinghui.net) and [Dr.Li](https://sites.duke.edu/angli))
 
 * This is the official implementation code of paper submitted to ACM MM 2021.
@@ -8,6 +8,8 @@ This work is done when working as the research asistant in Big Data Security and
 * Thanks for the insightful discussions with [Weizhe Liu](https://weizheliu.github.io)(the author of Coxtext-Aware-Crowd-Counting, CVPR2019)
 
 * Thanks for the repo of Optical Flow Attack (ICCV2019) [repo](https://github.com/anuragranj/flowattack), this repo is inspired from it. 
+
+* Thanks for the repo of [Randomized Ablation (AAAI2020)](https://github.com/alevine0/randomizedAblation)
 
 ## Requirement
 1. Install pytorch 1.4.0+

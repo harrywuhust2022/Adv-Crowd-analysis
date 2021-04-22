@@ -1,11 +1,11 @@
-# Towards Adversarial Patch Analysis and Certified Defenseagainst Crowd Counting
+# Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting
 This is the official implementation code of paper submitted to ACM MM 2021.
 
 We are the first work to evaluate the adversarial robustness of crowd counting both theoretically and empirically.
 
 
 ## Requirement
-1. Install pytorch 1.0.0+
+1. Install pytorch 1.4.0+
 
 
 ## Data Setup

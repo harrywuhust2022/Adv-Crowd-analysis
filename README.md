@@ -5,7 +5,7 @@ This work is done when working as the research asistant in Big Data Security and
 
 * We are the first work to evaluate the adversarial robustness of crowd counting both theoretically and empirically.
 
-* Thanks for the insightful discussions with [Weizhe Liu] (https://weizheliu.github.io)(the author of Coxtext-Aware-Crowd-Counting, CVPR2019)
+* Thanks for the insightful discussions with [Weizhe Liu] (https://weizheliu.github.io) (the author of Coxtext-Aware-Crowd-Counting, CVPR2019)
 
 * Thanks for the repo of [Optical Flow Attack (ICCV2019)] (https://github.com/anuragranj/flowattack), this repo is inspired from it. 
 

@@ -43,7 +43,8 @@ python3 MCNN_adv_train.py (adversarial training with the generated patch (pristi
 python3 MCNN_certify_train.py (certificate training MCNN via randomized ablation)
 
 ## Want to Gain the Certificate Retrained Models?
-dropbox: https://www.dropbox.com/sh/s9v8ojj7pedz4vr/AAChLahRjJ_-ko6kefsSD47ba?dl=0 
+This link also includes the latest suppplementary materials.
+dropbox: [dropbox](https://www.dropbox.com/sh/s9v8ojj7pedz4vr/AAChLahRjJ_-ko6kefsSD47ba?dl=0)
 
-[dropbox](https://www.dropbox.com/sh/s9v8ojj7pedz4vr/AAChLahRjJ_-ko6kefsSD47ba?dl=0)
+
 

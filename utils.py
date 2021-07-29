@@ -151,14 +151,8 @@ def train(net, patch, patch_shape, mask, patch_init, data_loader_train, criterio
         target_var = Variable(10 * gt_data_var.data.clone(), requires_grad=True).cuda()
 
         adv_tgt_img_var, patch_var, adv_out_var = attack(net, tgt_img_var, patch_var, mask_var, patch_init_var, gt_data_var, target_var, criterion)
-        # adv_tgt_img_var, patch_var, adv_out_var = momentum_attack(model, tgt_img_var, patch_var, beta_var, mask_var, patch_init_var, target_var)
         adv_example = adv_tgt_img_var.data.cpu().numpy()
         # patch_store = patch_var.data.cpu().numpy()
-
-        adv_example = array_transpose(adv_example.squeeze(0))
-
-        # plt.imsave('./attack_results/figs/{}_{}'.format(args.patch_size,full_imgname), adv_example.squeeze(0).squeeze(0), format='png', cmap=plt.cm.jet)
-        # plt.imsave('./attack_results/figs/{}_{}'.format(args.patch_size, full_imgname),patch_store.squeeze(0).squeeze(0), format='png', cmap=plt.cm.jet)
 
         masked_patch_var = torch.mul(mask_var, patch_var)
         patch = masked_patch_var.data.cpu().numpy()

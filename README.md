@@ -36,7 +36,7 @@ Thanks for these researchers sharing the codes!
 
 
 ## How to Attack?
-Please run the python file csr_attack.py
+Please run the python file patch_attack.py
 
 ## How to Retrain the Crowd Counting Models?
 python3 MCNN_adv_train.py (adversarial training with the generated patch (pristine version))

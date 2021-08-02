@@ -71,3 +71,4 @@ If you find the paper is useful, please cite :
 ![image](vis_MCNN.PNG)
 
 * comparison results of randomized ablation and randomized smoothing: \
+![image](RS_RA.PNG)

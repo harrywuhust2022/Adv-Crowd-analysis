@@ -84,9 +84,9 @@ python3 get_ablated_img.py
 ```
 python3 MCNN_certify_train.py
 ```
-* before ablation:
+* before ablation: \
 ![image](IMG_26.jpg) 
-* after ablation:
+* after ablation: \
 ![image](ablated_IMG_26.png)
 
 ## Reference

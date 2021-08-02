@@ -44,8 +44,18 @@ python3 MCNN_adv_train.py (adversarial training with the generated patch (pristi
 python3 MCNN_certify_train.py (certificate training MCNN via randomized ablation)
 
 ## Want to Gain the Certificate Retrained Models and Want More Disscussions on the Robustness Problem on Regression Learning?
-This link also includes the latest ## suppplementary materials ##.
+The latest ## suppplementary materials ##: \
 dropbox: [dropbox](https://www.dropbox.com/sh/s9v8ojj7pedz4vr/AAChLahRjJ_-ko6kefsSD47ba?dl=0)
 
+The certificate retrained crowd counting models: \
+dropbox: [dropbox](https://www.dropbox.com/home/ACM%20MM2021%20pretrained%20models)
 
+## Reference
+If you find the paper is useful, please cite : \ 
+@article{wu2021towards,
+  title={Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting},
+  author={Wu, Qiming and Zou, Zhikang and Zhou, Pan and Ye, Xiaoqing and Wang, Binghui and Li, Ang},
+  journal={arXiv preprint arXiv:2104.10868},
+  year={2021}
+}
 

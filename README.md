@@ -72,3 +72,24 @@ If you find the paper is useful, please cite :
 
 * comparison results of randomized ablation and randomized smoothing: \
 ![image](RS_RA.PNG)
+
+## "I want to try the randomized ablation method on my model and dataset"
+* use the command to abtain the single ablated image and then you can extend it to the dataset:
+```
+python3 get_ablated_img.py
+```
+(when k is larger, the consuming time is longer ^_^)
+* use the command to run the certificate training (you should config some settings, explore them yourselves):
+```
+python3 MCNN_certify_train.py
+```
+## Reference
+If you find the paper is useful, please cite : 
+```
+@article{wu2021towards,
+  title={Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting},
+  author={Wu, Qiming and Zou, Zhikang and Zhou, Pan and Ye, Xiaoqing and Wang, Binghui and Li, Ang},
+  journal={arXiv preprint arXiv:2104.10868},
+  year={2021}
+}
+```

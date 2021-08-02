@@ -59,3 +59,15 @@ If you find the paper is useful, please cite :
   year={2021}
 }
 ```
+
+## More Details
+* the attack process of victim crowd counting models: \
+![image](process.PNG)
+
+* illustrate the defense approach: \
+![image](process_RA.PNG)
+
+* the internal changes of victim models when being attacked (model: MCNN): \
+![image](vis_MCNN.PNG)
+
+* comparison results of randomized ablation and randomized smoothing: \

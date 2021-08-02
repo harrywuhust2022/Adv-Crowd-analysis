@@ -51,7 +51,7 @@ The certificate retrained crowd counting models: \
 dropbox: [dropbox](https://www.dropbox.com/home/ACM%20MM2021%20pretrained%20models)
 
 ## Reference
-If you find the paper is useful, please cite : \
+If you find the paper is useful, please cite : 
 ```
 @article{wu2021towards,
   title={Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting},
